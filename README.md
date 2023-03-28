@@ -1,6 +1,6 @@
 # 🚗Car Price Prediction Capstone Project 🚙
 
-AutoScout Car Price Prediction is my capstone project in data analysis and data visualization that aims to predict car prices based on various features. The project uses data scraped from an online car trading company's website in 2022, containing information about 13 different car makes and 594 models.
+Car Price Prediction is my capstone project in data analysis and data visualization that aims to predict car prices based on various features. The project uses data scraped from an online car trading company's website in 2022, containing information about 13 different car makes and 594 models.
 
 <br>
 
