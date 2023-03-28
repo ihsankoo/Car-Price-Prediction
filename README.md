@@ -59,5 +59,7 @@ The other bonus part involves statistical analysis of data, which provides tools
 ### 📈 Conclusion 📈
 
 In conclusion, AutoScout Car Price Prediction Capstone Project is a comprehensive project that covers all aspects of data analysis, from data cleaning and imputation to handling outliers using visualization libraries. It also showcases the importance of statistical analysis in gaining insights from data.
+
 <br>
+
 <b>Ihsan Karaosmanoglu.<b>
