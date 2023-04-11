@@ -1,17 +1,18 @@
 # 🚗Car Price Prediction Capstone Project 🚙
 
-Car Price Prediction is my capstone project in data analysis and data visualization that aims to predict car prices based on various features. The project uses data scraped from an online car trading company's website in 2022, containing information about 13 different car makes and 594 models.
+
 
 <br>
 
 ### 💻 Project Overview 💻
 
+Car Price Prediction is my capstone project in data analysis and data visualization that aims to predict car prices based on various features. The project uses data scraped from an online car trading company's website in 2022, containing information about 13 different car makes and 594 models. 
 The project is divided into four main parts:
 
-1- Data cleaning
-2- Data imputation
-3- Handling outliers using visualization libraries
-4- Encoding for Machine Learning
+1- Data cleaning <br>
+2- Data imputation <br>
+3- Handling outliers using visualization libraries <br>
+4- Encoding for Machine Learning <br>
 
 <br>
 
