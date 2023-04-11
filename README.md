@@ -29,6 +29,13 @@ The second part of the project focuses on filling in missing values. There are s
 ### 📊 Handling Outliers using Visualization Libraries 📊
 
 The third part of the project involves identifying and handling outliers using visualization libraries. Outliers can skew the data and lead to inaccurate predictions. Visualization libraries such as Matplotlib and Seaborn are used to identify outliers and to handle them appropriately. Lastly, all categorical data is converted to numeric data through encoding for machine learning.
+<br>
+
+💻🔢 Converting Categorical Data to Numeric: Encoding for Machine Learning 🧮🔣
+
+The fourth part of the project involves converting categorical data into a format that machine learning algorithms can easily process. By using encoding techniques such as label encoding and one-hot encoding, I was able to transform non-numeric data into a set of numeric values that represent different categories.
+
+Label encoding involves assigning a numerical label to each category, while one-hot encoding creates a binary vector that represents the presence or absence of each category. These encoded features can then be used as input for machine learning models.
 
 <br>
 
