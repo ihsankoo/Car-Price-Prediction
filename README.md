@@ -54,13 +54,21 @@ Overall, AutoScout Car Price Prediction is an innovative project that demonstrat
 
 <br>
 
-### 🔍 Bonus Part 1: Corrected Addresses 🔍
+### 🌎 Bonus Part 1: Producing HeatMap 🌎
 
 First bonus part focuses on getting corrected addresses using a function that utilizes the Bing Maps API. The function corrects addresses with missing or incorrect data, providing a cleaner dataset and creating a heatmap with Python's Folium library.
 
 <br>
 
-### 🌎 Bonus Part 2: Statistics and Analysis 🌎
+### 💡 Bonus Part-2: Unlocking Insights 💡
+
+In this part of the project, I dive into a dataset using various data analysis tools to uncover insights and trends. I aim to identify patterns and relationships within the data. From there, I conduct further analysis and explore potential explanations for any observed trends.
+
+The insights gained from this analysis can be used to inform decision-making processes and drive business strategies.
+
+<br>
+
+### 👀 Bonus Part 3: Statistical Analysis 👀
 
 The other bonus part involves statistical analysis of data, which provides tools and methods to give more in-depth insights into data. Descriptive statistics are used to identify hidden patterns in the data, while inferential statistics are intended to extract inferences or hypotheses from a sample of large data. This type of statistical analysis is useful for making predictions about the population based on random samples of data.
 
